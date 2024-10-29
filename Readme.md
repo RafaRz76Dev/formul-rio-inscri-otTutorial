@@ -5,7 +5,7 @@
  <div align="center">
 <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="45" width="45">
 
-[ ( Clique aqui e se inscreva para mais dicas ao: `Formulário de Inscrição!!`) ](raizertechdev-forminscricao.netlify.app/)
+[ ( Clique aqui e se inscreva para mais dicas ao: `Formulário de Inscrição!!`) ](https://raizertechdev-forminscricao.netlify.app/)
 
 <br>
 
